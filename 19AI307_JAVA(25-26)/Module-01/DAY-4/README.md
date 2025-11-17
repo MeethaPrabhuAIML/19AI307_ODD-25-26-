@@ -33,8 +33,8 @@ To write a Java program to count how many elements in an array are divisible by 
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: 
-RegisterNumber:  
+Developed by: MEETHA PRABHU
+RegisterNumber: 212222240065
 */
 ```
 
@@ -72,4 +72,5 @@ public class Main{
 
 ## RESULT:
 Thus, the Java program to count how many elements in an array are divisible by 3 or 5 is implemented using Arrays successfully.
+
 
