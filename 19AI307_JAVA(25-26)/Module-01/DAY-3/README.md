@@ -32,6 +32,7 @@ To print a left-aligned triangle pattern is a pattern of stars (*) where each ro
 
 9. Repeat for the Next Row The program goes back to Step 3 to start the next row (by increasing i by 1). This whole process repeats until i is greater than rows.
 
+10. Close the programa and scanner object.
 
 
 ## PROGRAM:
@@ -72,4 +73,5 @@ public class ReverseNumber {
 
 ## RESULT:
 Thus, the program to print a left-aligned triangle pattern of stars (*) using looping statement is implemented successfully.
+
 
