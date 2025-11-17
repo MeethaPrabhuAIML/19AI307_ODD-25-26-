@@ -30,19 +30,25 @@ Access Granted: true/false
 To evaluate these conditions using logical operators and print whether access is granted or denied.
 
 ## ALGORITHM :
-1.Initialize Input System Prepare the program to receive input from the user (this is what Scanner sc = new Scanner(System.in); does).
+1. Start the program
 
-2.Get Registration Status Read the first boolean (true/false) value from the user and store it in the reg variable. This value represents whether the user is registered.
+2. Import necessary java modules java.util
+   
+3. Initialize Input System Prepare the program to receive input from the user (this is what Scanner sc = new Scanner(System.in); does).
 
-3.Get ID Status Read the second boolean value from the user and store it in the id variable. This represents whether the user has a valid ID.
+4. Get Registration Status Read the first boolean (true/false) value from the user and store it in the reg variable. This value represents whether the user is registered.
 
-4.Get Blacklist Status Read the third boolean value from the user and store it in the blacklisted variable. This represents whether the user is on the blacklist.
+5. Get ID Status Read the second boolean value from the user and store it in the id variable. This represents whether the user has a valid ID.
 
-5.Evaluate Access Conditions Perform a logical check using all three variables. The program checks if reg is true, AND id is true, AND blacklisted is false.
+6. Get Blacklist Status Read the third boolean value from the user and store it in the blacklisted variable. This represents whether the user is on the blacklist.
 
-6.Grant Access If the combined condition in Step 6 is met (all three parts are true), the program will print the message: "Access Granted: true".
+7. Evaluate Access Conditions Perform a logical check using all three variables. The program checks if reg is true, AND id is true, AND blacklisted is false.
 
-7.Deny Access If the combined condition in Step 6 fails (meaning at least one part is not as required), the program will execute the "else" block and print the message: "Access Granted: false".
+8. Grant Access If the combined condition in Step 6 is met (all three parts are true), the program will print the message: "Access Granted: true".
+
+9. Deny Access If the combined condition in Step 6 fails (meaning at least one part is not as required), the program will execute the "else" block and print the message: "Access Granted: false".
+
+10. Close the program and scanner object.
 
 
 ## PROGRAM:
@@ -82,3 +88,4 @@ public class Main{
 
 ## RESULT:
 Thus, the program to evaluate these conditions using logical operators is implemented successfully.
+
