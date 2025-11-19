@@ -25,8 +25,7 @@ To develop a java program to reverse a string.
 
 10. Print the Final Result After the loop is finished, the program prints the text "Reversed string:" followed by the new res string.
 
-11. Close the program and scanner object.
-
+11. Close the scanner object and end the program.
 
 
 
@@ -64,4 +63,5 @@ public class Main{
 
 ## RESULT:
 Thus, the java program to reverse a string is implemented using String operation sucessfully.
+
 
