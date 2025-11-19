@@ -32,7 +32,7 @@ To develop a java program to get the month from user and and display appropriate
 
 8. Handle Invalid Numbers If the number v was not between 1 and 12 (meaning all the checks above failed), the program prints "Invalid Month".
    
-9. Close the program and scanner object. 
+9. Close the scanner object and end the program.
 
 
 
@@ -75,5 +75,6 @@ public class Main{
 
 ## RESULT:
 Thus, the program to generate the name of the month using conditional statement is implemented successfully.
+
 
 
