@@ -2,8 +2,11 @@
 
 ## QUESTION:
 Create two methods:
+
 Get the input for radius from the user.
+
 double getArea(double r) → calculate the area and return the area(Don't print anything in this method).
+
 void printArea(double area) → pass the calculated area to this method and print the area of a circle.
 
 ## AIM:
@@ -67,3 +70,4 @@ public class Main {
 
 ## RESULT:
 Thus, the program to create methods to calculate the area of circle is implemented successfully.
+
