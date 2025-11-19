@@ -24,8 +24,8 @@ To write a Java program to count how many elements in an array are divisible by 
 8. Check the Rule Inside this second loop, it looks at the current number and checks: Is this number divisible by 3? OR is this number divisible by 5?
 
 9. Increase the Counter If the rule in Step 7 is true (the number is divisible by 3 or 5), the program adds 1 to the count variable.
-
-10 Print the Result After the second loop has finished checking all the numbers in the list, the program prints the final total value of count.
+    
+10. Print the Result After the second loop has finished checking all the numbers in the list, the program prints the final total value of count.
 
 11. Close the scanner object and end the program.
 
@@ -72,6 +72,7 @@ public class Main{
 
 ## RESULT:
 Thus, the Java program to count how many elements in an array are divisible by 3 or 5 is implemented using Arrays successfully.
+
 
 
 
