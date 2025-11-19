@@ -27,7 +27,7 @@ To write a Java program to count how many elements in an array are divisible by 
 
 10 Print the Result After the second loop has finished checking all the numbers in the list, the program prints the final total value of count.
 
-11. Close the program and scanner object.
+11. Close the scanner object and end the program.
 
 ## PROGRAM:
  ```
@@ -72,5 +72,6 @@ public class Main{
 
 ## RESULT:
 Thus, the Java program to count how many elements in an array are divisible by 3 or 5 is implemented using Arrays successfully.
+
 
 
