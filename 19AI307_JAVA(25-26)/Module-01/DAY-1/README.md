@@ -1,4 +1,4 @@
-# Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
+<img width="1237" height="351" alt="image" src="https://github.com/user-attachments/assets/5681ff2a-6e13-44c5-a56c-21c80ee175d2" /># Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
 
 ## QUESTION:
 Lovely wants to enter a secure tech conference. The security system checks certain conditions to grant access. These conditions are:
@@ -48,7 +48,7 @@ To evaluate these conditions using logical operators and print whether access is
 
 9. Deny Access If the combined condition in Step 6 fails (meaning at least one part is not as required), the program will execute the "else" block and print the message: "Access Granted: false".
 
-10. Close the program and scanner object.
+10. Close the scanner object and end the program.
 
 
 ## PROGRAM:
@@ -88,4 +88,5 @@ public class Main{
 
 ## RESULT:
 Thus, the program to evaluate these conditions using logical operators is implemented successfully.
+
 
