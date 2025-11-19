@@ -20,17 +20,17 @@ To develop a java program to get the month from user and and display appropriate
 
 2. Import necessary java modules java.util
 
-3. Get the Month Number The program asks the user to type in a number and stores it in the variable v.
+3. The program asks the user to type in a number and stores it in the variable v.
 
-4. Check for First Quarter It checks if the number v is between 1 and 3. If it is, the program prints "First Quarter".
+4. It checks if the number v is between 1 and 3. If it is, the program prints "First Quarter".
 
-5. Check for Second Quarter If the first check failed, the program then checks if v is between 4 and 6. If it is, it prints "Second Quarter".
+5. If the first check failed, the program then checks if v is between 4 and 6. If it is, it prints "Second Quarter".
 
-6. Check for Third Quarter If the previous checks failed, the program then checks if v is between 7 and 9. If it is, it prints "Third Quarter".
+6. If the previous checks failed, the program then checks if v is between 7 and 9. If it is, it prints "Third Quarter".
 
-7. Check for Fourth Quarter If the previous checks failed, the program then checks if v is between 10 and 12. If it is, it prints "Fourth Quarter".
+7. If the previous checks failed, the program then checks if v is between 10 and 12. If it is, it prints "Fourth Quarter".
 
-8. Handle Invalid Numbers If the number v was not between 1 and 12 (meaning all the checks above failed), the program prints "Invalid Month".
+8. If the number v was not between 1 and 12 (meaning all the checks above failed), the program prints "Invalid Month".
    
 9. Close the scanner object and end the program.
 
@@ -75,6 +75,7 @@ public class Main{
 
 ## RESULT:
 Thus, the program to generate the name of the month using conditional statement is implemented successfully.
+
 
 
 
