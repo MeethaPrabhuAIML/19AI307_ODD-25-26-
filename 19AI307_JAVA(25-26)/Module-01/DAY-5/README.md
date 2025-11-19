@@ -7,25 +7,25 @@ Write a Java program to reverse a given string.
 To develop a java program to reverse a string.
 
 ## ALGORITHM :
-1.	Start the program.
+1. Start the program.
     
-2.	Import the necessary package 'java.util'
+2. Import the necessary package 'java.util'
    
-4.	Get the Text The program asks the user to type in a line of text (a string) and stores it in the str variable.
+3. The program asks the user to type in a line of text (a string) and stores it in the str variable.
 
-5. Create a New String for the Result The program creates a new string variable called res and sets its initial value to a single space (" "). This string will hold the reversed text.
+4. The program creates a new string variable called res and sets its initial value to a single space (" "). This string will hold the reversed text.
 
-6. Start a Loop (Going Backwards) The program starts a loop. The loop's counter (i) is set to the last position (index) of the input text (str.length() - 1). The loop will continue as long as i is 0 or greater, moving backward one position at a time.
+5. The program starts a loop. The loop's counter (i) is set to the last position (index) of the input text (str.length() - 1). The loop will continue as long as i is 0 or greater, moving backward one position at a time.
 
-7. Get One Character Inside the loop, the program gets the single character from the original text (str) at the current position i.
+6. Inside the loop, the program gets the single character from the original text (str) at the current position i.
 
-8. Add the Character to the Result The program adds (appends) this single character to the end of the res string.
+7. The program adds (appends) this single character to the end of the res string.
 
-9. Repeat the Loop The program goes back to Step 4, decreases i by 1 (moves to the previous character), and repeats Steps 5 and 6. This continues until it has added all characters from the original text, from last to first.
+8. Repeat the Loop The program goes back to Step 4, decreases i by 1 (moves to the previous character), and repeats Steps 5 and 6. This continues until it has added all characters from the original text, from last to first.
 
-10. Print the Final Result After the loop is finished, the program prints the text "Reversed string:" followed by the new res string.
+9. After the loop is finished, the program prints the text "Reversed string:" followed by the new res string.
 
-11. Close the scanner object and end the program.
+10. Close the scanner object and end the program.
 
 
 
@@ -63,5 +63,6 @@ public class Main{
 
 ## RESULT:
 Thus, the java program to reverse a string is implemented using String operation sucessfully.
+
 
 
