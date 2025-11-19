@@ -27,8 +27,8 @@ To create a class using parameterized constructor to calculate the area of a rec
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: 
-RegisterNumber:  
+Developed by: MEETHA PRABHU
+RegisterNumber: 212222240065
 */
 ```
 
@@ -63,9 +63,6 @@ public static void main(String[] args) {
 ```
 
 
-
-
-
 ## OUTPUT:
 <img width="741" height="410" alt="image" src="https://github.com/user-attachments/assets/54b6b4df-58a6-4e68-a36d-63693dd47f58" />
 
@@ -73,3 +70,4 @@ public static void main(String[] args) {
 
 ## RESULT:
 Thus, the program to create a class with paramterized constructor is implemented successfully.
+
