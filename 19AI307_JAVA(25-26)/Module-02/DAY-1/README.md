@@ -11,17 +11,17 @@ To create a class Vehicle with attributes as number, type and owner.
    
 2.	Import the necessary package 'java.util'
    
-3. Create the First Vehicle Object The program creates a new vehicle object called v1. This is the first "container" to hold vehicle details.
+3. The program creates a new vehicle object called v1. This is the first "container" to hold vehicle details.
 
-4. Get Input for First Vehicle The program waits for the user to type three things: the vehicle number, the vehicle type, and the owner's name. It saves these details into the v1 object.
+4. The program waits for the user to type three things: the vehicle number, the vehicle type, and the owner's name. It saves these details into the v1 object.
 
-5. Create the Second Vehicle Object The program creates another new vehicle object called v2. This is the second "container" to hold different details.
+5. The program creates another new vehicle object called v2. This is the second "container" to hold different details.
 
-6. Get Input for Second Vehicle The program waits for the user to type three more things: a new vehicle number, type, and owner. It saves these details into the v2 object.
+6. The program waits for the user to type three more things: a new vehicle number, type, and owner. It saves these details into the v2 object.
 
-7. Print First Vehicle Details The program takes the information stored inside v1 and prints it out in a specific format (Number | Type | Owner).
+7. The program takes the information stored inside v1 and prints it out in a specific format (Number | Type | Owner).
 
-8. Print Second Vehicle Details The program takes the information stored inside v2 and prints it out in the same format.
+8. The program takes the information stored inside v2 and prints it out in the same format.
 
 9. Close the scanner object and end the program.
 
@@ -85,3 +85,4 @@ class prog {
 
 ## RESULT:
 Thus, the program to create an object is implemented successfully.
+
