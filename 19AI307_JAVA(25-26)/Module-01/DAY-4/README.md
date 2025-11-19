@@ -11,15 +11,15 @@ To write a Java program to count how many elements in an array are divisible by 
 
 2.	Import the necessary package 'java.util'
    
-3.	Get the Total Count The program asks the user for a number (to decide how many numbers to check) and stores it in the n variable.
+3.	The program asks the user for a number (to decide how many numbers to check) and stores it in the n variable.
 
-4. Create an Empty List The program makes an array that is big enough to hold n numbers.
+4. CThe program makes an array that is big enough to hold n numbers.
 
-5. Fill the List (First Loop) The program starts a loop that repeats n times. Each time, it asks the user for a number and puts that number into the list.
+5. The program starts a loop that repeats n times. Each time, it asks the user for a number and puts that number into the list.
 
-6. Set Up a Counter The program creates a new variable called count and sets its value to 0. This will be used to count the numbers that match our rule.
+6. The program creates a new variable called count and sets its value to 0. This will be used to count the numbers that match our rule.
 
-7. Check the List (Second Loop) The program starts a second loop. This loop goes through every number in the list, one by one, from start to finish.
+7. The program starts a second loop. This loop goes through every number in the list, one by one, from start to finish.
 
 8. Check the Rule Inside this second loop, it looks at the current number and checks: Is this number divisible by 3? OR is this number divisible by 5?
 
@@ -72,6 +72,7 @@ public class Main{
 
 ## RESULT:
 Thus, the Java program to count how many elements in an array are divisible by 3 or 5 is implemented using Arrays successfully.
+
 
 
 
