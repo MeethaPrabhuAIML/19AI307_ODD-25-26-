@@ -106,10 +106,10 @@ public class Main
 
 
 ## OUTPUT:
-![Uploading image.png…]()
-
+<img width="398" height="261" alt="image" src="https://github.com/user-attachments/assets/eee73ac2-700b-4bac-bcd7-b15c58520051" />
 
 
 ## RESULT:
 Thus, the program to calculate the final score for an Arcade Game or a Puzzle Game using abstract classes and polymorphism was executed successfully.
+
 
